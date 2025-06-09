@@ -1,3 +1,3 @@
 # Aries
 
-code uploading and deployment will be done on 9th June, 2025
+code uploading and deployment will be done on 11th June, 2025
